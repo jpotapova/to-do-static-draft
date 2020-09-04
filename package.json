@@ -7,7 +7,7 @@
     "eslint": "^5.8.0",
     "jest": "^23.6.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "reload": "^2.3.1",
     "sass-lint": "^1.13.1",
     "uglify-js": "^3.4.9",
